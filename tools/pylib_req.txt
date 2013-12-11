@@ -1,0 +1,10 @@
+django
+PIL
+isodate 
+python-dateutil==1.5
+rauth 
+passlib
+cssmin 
+facebook-sdk
+unittest2
+nose
